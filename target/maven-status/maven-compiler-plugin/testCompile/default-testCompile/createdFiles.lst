@@ -1,1 +1,4 @@
+com/savethechildren/userapi/util/EncryptionUtilsTest.class
+com/savethechildren/userapi/controller/UserControllerTest.class
 com/savethechildren/userapi/UserApiApplicationTests.class
+com/savethechildren/userapi/service/UserServiceTest.class
