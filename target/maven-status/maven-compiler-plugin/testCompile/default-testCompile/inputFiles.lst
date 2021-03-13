@@ -1,1 +1,4 @@
 /Users/nehakartheek/IdeaProjects/user-api/src/test/java/com/savethechildren/userapi/UserApiApplicationTests.java
+/Users/nehakartheek/IdeaProjects/user-api/src/test/java/com/savethechildren/userapi/util/EncryptionUtilsTest.java
+/Users/nehakartheek/IdeaProjects/user-api/src/test/java/com/savethechildren/userapi/controller/UserControllerTest.java
+/Users/nehakartheek/IdeaProjects/user-api/src/test/java/com/savethechildren/userapi/service/UserServiceTest.java

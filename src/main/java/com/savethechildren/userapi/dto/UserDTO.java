@@ -1,11 +1,16 @@
 package com.savethechildren.userapi.dto;
 
+import com.sun.istack.NotNull;
+
 public class UserDTO {
 
     private String userName;
     private String emailAddress;
     private String phoneNumber;
     private String address;
+
+    public UserDTO() {
+    }
 
     public UserDTO(String userName, String emailAddress, String phoneNumber, String address) {
         this.userName = userName;
